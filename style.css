@@ -10,8 +10,8 @@ body{
 }
 
 header{
-   height: 120px;
-   padding: 20px;
+   height: 100px;
+   padding: 23px;
    background: url(logo1.jpg)no-repeat;
 }
 
@@ -19,7 +19,7 @@ main{
    background-color: blanchedalmond;
    width: 70%;
    float: left;
-   padding: 20px;
+   padding: 18px;
    box-sizing: border-box;
 
    h1{
